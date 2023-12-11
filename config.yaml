@@ -5,7 +5,7 @@ cookie:
 credentials:
   usernames:
     patrickC:
-      email: imhongjia@gmail.com.au
+      email: imhongjia@gmail.com
       name: Patrick Chen
       password: $2b$12$84xki7Dc8alyGxnM07uK0OuLdNZj5R07XbvyBLDVeeFICbce6ObFi
     clarkK:
