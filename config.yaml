@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    patrickC:
+      email: imhongjia@gmail.com.au
+      name: Patrick Chen
+      password: $2b$12$84xki7Dc8alyGxnM07uK0OuLdNZj5R07XbvyBLDVeeFICbce6ObFi
+    clarkK:
+      email: clark.kent@gmail.com
+      name: Clark Kent
+      password: $2b$12$rYzK/P4/hlDpz91TBQ6PqupJjBpdfVSiVV156zmSbIg4dAoUMMl36
+preauthorized:
+  emails:
+    - peter.park@gmail.com
+    - bruce.wayne@gmail.com
